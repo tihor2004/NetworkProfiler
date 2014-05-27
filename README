@@ -1,8 +1,0 @@
-CondorNetworkProfiler
-=====================
-
-For executing multiple instance of the script. Following items should be unique:
-
-1. Interface to be monitored using libpcap.
-2. Port number on which the web service runs.
-3. Name of user-defined INPUT and OUTPUT chains.
